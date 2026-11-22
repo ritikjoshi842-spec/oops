@@ -1,7 +1,8 @@
 # Autonomous Landslide & Flash-Flood Early Warning Grid (ALF-EWG)
 **Paper Code: CIC-211 | Object-Oriented Programming Using C++**  
 *Maharaja Agrasen Institute of Technology (MAIT) — Department of Computer Science & Engineering*  
-**Option 1 Submission**
+**Option 1 Submission**  
+**GitHub Repository:** [https://github.com/ritikjoshi842-spec/oops](https://github.com/ritikjoshi842-spec/oops)
 
 ---
 
